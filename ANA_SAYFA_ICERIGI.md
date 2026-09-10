@@ -72,20 +72,10 @@ Vancrone su anda ucretsizdir. Ucretsiz surumde reklam gosterilir. Ileride sunula
 
 ## Iletisim
 
-Gelistirici: `TAM_AD_BURAYA`
-E-posta: randomizetrust43@gmail.com
+Gelistirici: `Ömer Faruk Sağlam`
+E-posta: vancrone.app@gmail.com
 
 Son guncelleme: 10 Eylul 2026
 
 ---
 
-## Nasil kullanilir (bu bolum sayfaya konmaz)
-
-1. Yukaridaki `KULLANICI_SOZLESMESI_ADRESI`, `GIZLILIK_ADRESI`, `AYDINLATMA_ADRESI` ve `TAM_AD_BURAYA` yer tutucularini gercek degerlerle degistir.
-2. Bu dosyayi yayinla. Paketteki `docs/index.html` zaten bu metinden uretildi; oldugu gibi kullanabilirsin.
-3. Google Cloud Console > OAuth Branding ekraninda:
-   - **Application home page** = bu sayfanin adresi (ornek: `https://kullaniciadi.github.io/vancrone-legal/`)
-   - **Application privacy policy link** = gizlilik sayfasinin adresi
-   - **Application terms of service link** = kullanici sozlesmesi sayfasinin adresi
-   - **Authorized domains** = adresin alan adi, basinda `https://` olmadan (ornek: `github.io` degil, dogrulanabilen kendi alan adin; GitHub Pages kullaniyorsan `kullaniciadi.github.io`)
-4. Uc adres de **ayni alan adinda** olmali ve ana sayfa gizlilik politikasina link vermeli. Paketteki sayfalar bu kurala gore hazirlandi.
