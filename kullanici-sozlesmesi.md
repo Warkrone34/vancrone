@@ -1,8 +1,6 @@
 # 1. User Agreement & Anti-Theft (EULA)
 
-Son guncelleme: 10 Eylul 2026.
-
----
+> Bu belge Vancrone uygulamasinin icinde gosterilen metnin birebir aynisidir. Son guncelleme: 10 Eylul 2026.
 
 ## 1. Agreement to Terms
 
@@ -18,7 +16,17 @@ This is a license, not a sale. The Developer and its licensors retain all right,
 
 ## 4. Purchases, Plans, and Billing
 
-Vancrone offers optional one-time, lifetime "Pro" and "Business" upgrades, processed exclusively through Google Play Billing. All payment processing is handled by Google Play. The Developer does not directly receive, store, or process your payment card details.
+Vancrone offers optional one-time, lifetime "Pro" and "Business" upgrades, processed exclusively through Google Play Billing. All payment processing is handled by Google Play. The Developer does not directly receive, store, or process your payment card details. Refunds are handled by Google Play in accordance with Google's refund policies; the Developer cannot process payments or issue refunds directly.
+
+Current status and future changes: The App is currently offered free of charge, supported by advertising, alongside the optional paid upgrades described above. Being free of charge today is not a permanent commitment: nothing in the App, in its store listing, or in any promotional material should be read as a promise that the App, or any particular feature of it, will remain free of charge. The Developer may, at its sole discretion and at any time, change how the App is monetised — including charging a purchase price for the App, moving features that are currently free into a paid plan, or offering subscriptions — and is equally free to make no such change at all.
+
+Any such change applies only going forward, from the date it takes effect, and is subject to the following protections for you:
+
+- One-time upgrades you have already purchased remain valid for the Google account that purchased them and will not be withdrawn because of a later pricing change.
+- You are never charged retroactively for use that has already taken place, and no amount is ever charged without a purchase you make yourself through Google Play.
+- The price shown in Google Play at the time of your purchase is the price that applies to that purchase; a later price change affects only purchases made after it takes effect.
+- Where a change would materially reduce what the App offers without payment, the Developer will give reasonable notice inside the App before it takes effect, in line with Section 16.
+- You may stop using the App at any time as described in Section 15, and you keep the ability to export and keep your own data as described in Section 10.
 
 ## 5. Your Content and Responsibilities
 
@@ -62,7 +70,7 @@ You agree to indemnify and hold harmless the Developer from any claims, damages,
 
 ## 15. Term and Termination
 
-This Agreement remains in effect until terminated. You may stop using the App and uninstall it at any time. The Developer may suspend or terminate your access to the App if you materially breach this Agreement. Sections 9, 12–17, and 19 survive any termination.
+This Agreement remains in effect until terminated. You may stop using the App and uninstall it at any time. The Developer may suspend or terminate your access to the App if you materially breach this Agreement. Sections 9 and 12–18 survive any termination.
 
 ## 16. Changes to This Agreement
 

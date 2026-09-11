@@ -1,14 +1,12 @@
 # 2. Privacy Policy & Data Security
 
-Son guncelleme: 10 Eylul 2026.
-
----
+> Bu belge Vancrone uygulamasinin icinde gosterilen metnin birebir aynisidir. Son guncelleme: 10 Eylul 2026.
 
 ## 1. Introduction
 
 This Privacy Policy explains how Developer handles information in connection with the Vancrone Android application. We built this policy around one central fact: we, the Developer, do not see your personal inventory, invoices, or photos. This policy explains exactly what that means, and what limited data our third-party service providers do collect.
 
-2. Our Approach: Local-First by Design
+## 2. Our Approach: Local-First by Design
 
 Vancrone is built on an "offline-first" architecture. There is no central Vancrone server that stores, indexes, or has access to the product information, prices, dates, notes, invoice photos, or proof videos you enter into the App. This is a deliberate architectural choice — sometimes called "privacy by design" — not just a policy promise.
 
@@ -19,6 +17,7 @@ We do not collect, transmit, view, sell, rent, or otherwise access:
 - Your product inventory records (names, prices, dates, warranty terms, notes);
 - Your invoice or receipt photos or proof videos;
 - The financial risk summaries the App generates for you.
+
 This data is created by you and stays on your device — and, if you choose, in your own personal Google Drive — unless and until you decide to share or export it yourself.
 
 ## 4. Data Stored Locally on Your Device

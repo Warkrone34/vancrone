@@ -1,8 +1,6 @@
 # 3. GDPR/KVKK Notice & Disclaimer
 
-Son guncelleme: 10 Eylul 2026.
-
----
+> Bu belge Vancrone uygulamasinin icinde gosterilen metnin birebir aynisidir. Son guncelleme: 10 Eylul 2026.
 
 ## Purpose of This Document
 
@@ -20,7 +18,7 @@ The personal data categories that are transmitted to the Developer or its servic
 
 - Crash diagnostics: Processed by Google (Firebase Crashlytics) to detect and fix app stability issues.
 - Advertising data: Processed by Google (AdMob) to serve and measure ads for free-tier users.
-- Purchase data: Processed by Google (Play Billing) and limited server-side infrastructure operated by the Developer solely for license validation.
+- Purchase data: Processed by Google (Play Billing) for license validation. The Developer does not operate any server for this purpose and only receives the purchase status reported by Google Play.
 
 ## 3. Method of Collection and Legal Basis
 
