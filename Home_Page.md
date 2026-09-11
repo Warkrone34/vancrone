@@ -1,10 +1,5 @@
 # Vancrone
 
-> The content of this file is the **page content** for the address you will enter in the
-> **Application home page** field on the Google Cloud Console > OAuth Branding screen.
-> In other words, publish this text as a web page, then enter that page's address in that field.
-> The "How to use" section at the bottom of the file is not placed on the page; it is only for you.
-
 **Vancrone is a personal inventory app that keeps the warranty and invoice records of the products you buy encrypted on your phone.**
 
 It tracks warranty expiry dates, reminds you before they run out, and gathers all your products in a single list. The app works without an internet connection; your records are not sent to a server.
