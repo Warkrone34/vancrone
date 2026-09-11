@@ -1,6 +1,6 @@
 # 2. Privacy Policy & Data Security
 
-Son guncelleme: 10 Eylul 2026.
+Last Update: 10 Eylul 2026.
 
 ## 1. Introduction
 
