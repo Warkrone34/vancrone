@@ -64,17 +64,16 @@ Vancrone su anda ucretsizdir. Ucretsiz surumde reklam gosterilir. Ileride sunula
 
 ## Yasal belgeler
 
-- Kullanici Sozlesmesi: `KULLANICI_SOZLESMESI_ADRESI`
-- Gizlilik Politikasi: `GIZLILIK_ADRESI`
-- KVKK / GDPR Aydinlatma Metni: `AYDINLATMA_ADRESI`
+- Kullanici Sozlesmesi: `https://github.com/Warkrone34/vancrone/blob/main/User%20Agreement%20%26%20Anti-Theft%20(EULA).md`
+- Gizlilik Politikasi: `https://github.com/Warkrone34/vancrone/blob/main/Privacy%20Policy%20%26%20Data%20Security.md`
+- KVKK / GDPR Aydinlatma Metni: `https://github.com/Warkrone34/vancrone/blob/main/KVKK%20Notice%20%26%20Disclaimer.md`
 
 ---
 
 ## Iletisim
 
-Gelistirici: `Ömer Faruk SAĞLAM`
 E-posta: vancrone.app@gmail.com
 
-Son guncelleme: 10 Eylul 2026
+Son guncelleme: 11 Eylül 2026
 
 ---
