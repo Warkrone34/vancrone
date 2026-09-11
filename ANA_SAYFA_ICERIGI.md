@@ -1,9 +1,5 @@
 # Vancrone
 
-> Bu dosyanin icerigi, Google Cloud Console > OAuth Branding ekranindaki
-> **Application home page** alanina yazacagin adresin **sayfa icerigidir**.
-> Yani bu metni web sayfasi olarak yayinla, sonra o sayfanin adresini o alana gir.
-> Dosyanin en altindaki "Nasil kullanilir" bolumu sayfaya konmaz, sadece senin icindir.
 
 **Vancrone, satin aldigin urunlerin garanti ve fatura kayitlarini telefonunda sifreli olarak saklayan bir kisisel envanter uygulamasidir.**
 
