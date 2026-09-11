@@ -1,6 +1,6 @@
 # 1. User Agreement & Anti-Theft (EULA)
 
-> Bu belge Vancrone uygulamasinin icinde gosterilen metnin birebir aynisidir. Son guncelleme: 11 Eylul 2026.
+> Last Update: 11 September 2026.
 
 ## 1. Agreement to Terms
 
