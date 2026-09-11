@@ -99,4 +99,4 @@ The following terms apply in addition to the rest of this Agreement if you live 
 
 ## 20. Language Versions
 
-This Agreement, the Privacy Policy, and the GDPR/KVKK Disclosure Text are published in English, Turkish, German, Japanese, Spanish, and Chinese. The translations are intended to carry exactly the same meaning. Where the mandatory law of the country where you live requires the version in your own language to prevail, that version prevails for you; in all other cases the English version is the reference version.
+This Agreement, the Privacy Policy, and the GDPR/KVKK Disclosure Text are published in English, and the English version is the reference version. The App itself is available in several languages, and translations of these documents may be published later for convenience; any such translation is intended to carry exactly the same meaning. Where the mandatory law of the country where you live requires a version in your own language to prevail, that version prevails for you once it is published. You may ask for an explanation of any part of these documents in Turkish or English by writing to vancrone.app@gmail.com.
