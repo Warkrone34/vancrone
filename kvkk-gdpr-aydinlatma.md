@@ -1,6 +1,6 @@
 # 3. GDPR/KVKK Notice & Disclaimer
 
-> Bu belge Vancrone uygulamasinin icinde gosterilen metnin birebir aynisidir. Son guncelleme: 11 Eylul 2026.
+> Last Update: 11 September 2026.
 
 ## Purpose of This Document
 
