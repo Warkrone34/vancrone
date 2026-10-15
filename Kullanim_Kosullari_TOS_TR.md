@@ -1,70 +1,75 @@
 # Vancrone Kullanım Koşulları (Terms of Service)
 
-> Bu belge, Vancrone uygulamasının kullanım şartlarını, yasal hak ve yükümlülüklerini ve sorumluluk sınırlarını düzenleyen resmi kullanım koşulları metnidir. Son güncelleme: 12 Eylül 2026.
+> Bu belge, Vancrone uygulamasının kullanım şartlarını, yasal hak ve yükümlülüklerini ve sorumluluk sınırlarını düzenleyen resmi kullanım koşulları metnidir. Son güncelleme: 15 Ekim 2026.
 
 ## 1. Koşulların Kabulü
 
-Vancrone mobil uygulamasını ("Vancrone", "Uygulama" veya "Geliştirici") indirerek, kurarak, erişerek veya kullanarak bu Kullanım Koşulları'nı ("Koşullar") kabul etmiş sayılırsınız. Bu Koşulları kabul etmiyorsanız, Uygulamayı cihazınıza yüklemeyiniz ve kullanmayınız.
+Vancrone mobil uygulamasını ("Vancrone", "Uygulama" veya "Geliştirici") indirerek, kurarak, erişerek veya kullanarak bu Kullanım Koşulları ("Koşullar") ile bağlı olmayı kabul edersiniz. Koşulları kabul etmiyorsanız Uygulamayı kurmayın, erişmeyin veya kullanmayın.
 
 ## 2. Hizmetin Tanımı ve Çevrimdışı (Offline-First) Mimari
 
-Vancrone; kişisel envanter, fatura ve garanti sürelerini organize etmenize yardımcı olmak amacıyla geliştirilmiş, öncelikli olarak çevrimdışı (offline-first) çalışan bağımsız bir araçtır.
+Vancrone, öncelikli olarak çevrimdışı (offline-first) çalışacak şekilde geliştirilmiş bağımsız bir kişisel envanter, garanti ve fatura takip aracıdır.
 
-- **Hesap ve Sunucu Bağımsızlığı**: Vancrone herhangi bir kullanıcı kaydı, üyelik sistemi, uzak sunucu veya bulut veritabanı işletmez. Girdiğiniz tüm veriler münhasıran cihazınızın yerel belleğinde saklanır.
-- **Yasal ve Finansal Statü**: Vancrone bir sigorta şirketi, resmi garanti sağlayıcısı, finansal danışmanlık kuruluşu, dedektiflik bürosu veya kolluk kuvveti değildir. Uygulamada yer alan hiçbir bilgi sigorta teminatı veya üretici garantisinin resmi onayı niteliğinde değildir.
+- **Uzak Sunucu veya Kullanıcı Hesabı Yoktur**: Vancrone; kullanıcı kaydı, hesap yönetimi, bulut veritabanı veya kayıtlarınız için uzak sunucu olmadan çalışır. Girdiğiniz her şey cihazınızın yerel ve uygulamaya özel depolama alanında saklanır. Sizin açık bir işleminiz olmadan cihazdan çıkan tek veri, Google hizmetlerine giden ve kayıtlarınızı içermeyen sınırlı teknik verilerdir (çökme raporları ve metin tanıma modeli indirmeleri); geri bildirim formuyla gönderdiğiniz mesajlar ise Geliştiriciye iletilir. Ayrıntılar Gizlilik Politikası'ndadır.
+- **Hukuki ve Finansal Bağımsızlık**: Vancrone bir sigorta şirketi, garanti üstlenicisi, finansal danışmanlık hizmeti, özel soruşturma bürosu veya kolluk kuvveti değildir. Uygulamadaki hiçbir unsur sigorta poliçesi veya herhangi bir üretici garantisi talebinin resmî güvencesi niteliği taşımaz.
 
 ## 3. Fikrî Mülkiyet ve Kullanım Lisansı
 
-Bu bir satış sözleşmesi değil, sınırlı ve kişisel bir kullanım lisansıdır. Geliştirici; kaynak kodları, görsel tasarım, logolar, ticari unvanlar ve "Vancrone" markası dâhil olmak üzere Uygulamaya ilişkin tüm fikrî ve sınai mülkiyet haklarını saklı tutar. Uygulamaya girdiğiniz Kullanıcı İçeriği bu mülkiyetin dışındadır.
+Bu Koşullar size Uygulamayı kullanmanız için sınırlı, kişisel ve devredilemez bir lisans verir; bir satış değildir. Geliştirici; kaynak kodu, tasarım, logolar, marka adları ve "Vancrone" ticari markası dâhil olmak üzere Uygulamaya ilişkin tüm hakları saklı tutar. Kendi Kullanıcı İçeriğiniz Geliştiricinin fikrî mülkiyetinin dışındadır.
 
-## 4. Satın Alımlar, Lisanslar ve Faturalandırma
+## 4. Ücret, Uygulama İçi Satın Alımlar ve Gelecekteki Değişiklikler
 
-Vancrone; temel özellikleri ücretsiz ve reklam destekli olarak sunmakta, isteğe bağlı olarak tek seferlik ömür boyu "Pro" ve "Business" lisans yükseltmeleri sağlamaktadır.
-
-- Tüm satın alma ve ödeme işlemleri münhasıran **Google Play Faturalandırma (Google Play Billing)** altyapısı üzerinden yürütülür.
-- Geliştirici hiçbir ödeme kartı veya banka bilginizi almaz, işlemez ve saklamaz.
-- İade talepleri Google Play'in tüketici politikaları çerçevesinde Google tarafından yönetilir.
-- Satın alınan tek seferlik yükseltmeler, satın alma işleminin yapıldığı Google hesabına bağlı kalır.
+- Vancrone'un mevcut sürümü ücretsizdir. Tüm özellikler kullanım sınırı olmadan açıktır, reklam gösterilmez ve uygulama içi satın alma sunulmaz.
+- Geliştirici ileride isteğe bağlı, tek seferlik "Pro" ve "Business" yükseltmeleri ve/veya ücretsiz sürümde reklam sunabilir. Bu tür değişiklikler yalnızca geleceğe dönük uygulanır ve yürürlüğe girmeden önce güncellenmiş Koşullarda yayımlanır.
+- Ücretli yükseltmeler sunulursa tüm işlemler yalnızca **Google Play Faturalandırma** üzerinden yürütülür; Geliştirici ödeme kartı bilgilerini hiçbir zaman almaz, işlemez veya saklamaz, iadeler Google Play iade politikalarına göre Google tarafından yürütülür ve ömür boyu lisanslar satın alındıkları Google Play hesabına bağlı kalır.
 
 ## 5. Kullanıcı İçeriği ve Gizlilik
 
-"Kullanıcı İçeriği"; Uygulamaya kaydettiğiniz ürün bilgilerini, seri numaralarını, fatura fotoğraflarını, kasa kanıt videolarını ve notları ifade eder. Geliştirici bu verilere uzaktan erişemez, bunları görüntüleyemez veya yedekleyemez. Verilerinizin doğruluğunu sağlamak ve önemli belgelerinizin harici kopyalarını saklamak tamamen sizin sorumluluğunuzdadır.
+"Kullanıcı İçeriği"; Vancrone'da sakladığınız ürün kayıtlarını, fatura ve garanti belgesi görsellerini veya PDF'lerini, ürün fotoğraflarını, kanıt videolarını, fiziksel belge konumu not ve fotoğraflarını, servis kayıtlarını ve kurtarılmış fiş görsellerini ifade eder. Geliştiricinin bu içeriği incelemeye, izlemeye veya uzaktan saklamaya yönelik hiçbir teknik erişimi yoktur. Girdiğiniz bilgilerin doğruluğu ve yeri doldurulamaz belgelerin harici kopyalarının saklanması tamamen sizin sorumluluğunuzdadır. Yukarıda belirtilen sınırlı teknik verilerin nasıl işlendiği Gizlilik Politikası ve KVKK Aydınlatma Metni'nde açıklanmıştır.
 
-## 6. Hırsızlığa Karşı Koruma, Kasa ve OCR Sorumluluk Reddi
+## 6. Özelliklere İlişkin Sorumluluk Reddi
 
-- **Kasa ve Kanıt İşlevi**: Uygulama içindeki video kanıtı ve seri numarası saklama özellikleri yalnızca mülkiyet delillerinizi düzenlemeniz amacıyla sunulur. Vancrone bir GPS takip cihazı veya hırsızlık alarmı değildir; çalınan eşyaların yerini tespit edemez ve çalınan eşyaların bedelini tazmin etmez.
-- **Fatura Tarama (OCR)**: Cihaz üzerinde çalışan optik metin tanıma özelliği yalnızca bir yardımcı araçtır. Metinleri veya rakamları yanlış okuyabilir. Verileri onaylamadan önce doğruluğunu denetlemek tamamen kullanıcının sorumluluğundadır.
-- **Bildirimler**: Garanti bitiş ve yedekleme bildirimleri cihazınızın işletim sistemi izinlerine ve pil tasarruf politikalarına bağlıdır; bildirimlerin zamanında iletileceği mutlak olarak garanti edilmez.
+- **Kasa ve Kanıt Kayıtları**: Kanıt videoları, fatura görselleri ve fiziksel belge konumu kayıtları yalnızca kişisel mülkiyet kanıtlarınızı düzenlemenize yardımcı olmak için tasarlanmıştır. Vancrone bir GPS takip cihazı, fiziksel hırsızlık alarmı veya kurtarma hizmeti DEĞİLDİR; çalınan eşyaların yerini tespit edemez ve çalınan mallar için tazminat sağlamaz.
+- **Garanti Yakala (Beta)**: Cihaz üzerinde çalışan belge tarayıcı, yalnızca veri girişini kolaylaştırmak için sunulan bir beta özelliğidir. Karakterleri, tarihleri ve tutarları yanlış okuyabilir veya atlayabilir; belgede açıkça yazmayan değerler "Tahmini" olarak işaretlenir ve tarama yasal garanti kapsamını doğrulamaz. Tüm değerleri kaydetmeden önce doğrulamak yalnızca sizin sorumluluğunuzdadır.
+- **İade Süreleri ve Geri Sayımlar**: Olası iade süreleri ve kalan gün sayaçları, girdiğiniz değerlere dayanan hatırlatmalardır; gerçek koşullar ülkeye, satıcıya ve ürün kategorisine göre değişir.
+- **Bildirimler**: Garanti bitişi, iade süresi ve yedekleme hatırlatmaları cihazınızda üretilir; işletim sistemi kurallarına, bildirim iznine ve pil tasarruf politikalarına bağlıdır ve zamanında iletilmeleri garanti edilmez.
+- **Oluşturulan Belgeler ve QR Transferi**: PDF sertifikaları, PDF envanter raporları ve CSV dışa aktarımları kendi beyanınıza dayanır ve resmî faturanın yerini tutmaz. Transfer (Air Gap) QR kodu; ürün adı, fiyat, para birimi, tarihler, ek garanti süresi ve kategori bilgilerini okunabilir biçimde içerir; kodu tarayan veya fotoğrafını çeken herkes bu bilgileri okuyabilir. Fotoğraflar ve belgeler aktarılmaz.
 
 ## 7. Yedekleme (SAF) ve Veri Kaybı Sorumluluk Reddi (ÖNEMLİ)
 
-Vancrone; gizliliğinizi korumak adına herhangi bir Google Drive API senkronizasyonu veya otomatik bulut yedekleme sunucusu **barındırmaz**.
+Gizliliğin korunması amacıyla Vancrone **Google Drive API senkronizasyonu içermez** ve **hiçbir bulut yedekleme sunucusuna bağlanmaz**.
 
-- **Manuel Yedekleme Zorunluluğu**: Ayarlar menüsündeki "Yedekle (Dışa Aktar)" fonksiyonunu kullanarak verilerinizi Storage Access Framework (SAF) aracılığıyla şifreli bir arşiv dosyası (`.vcb`) olarak harici bir belleğe veya güvenli bir konuma düzenli olarak aktarmak tek başına ve münhasıran kullanıcının sorumluluğundadır.
-- **Sorumluluk Reddi**: Cihazın bozulması, arızalanması, kaybolması, çalınması, fabrika ayarlarına döndürülmesi, uygulamanın silinmesi, verilerin temizlenmesi veya güncel bir yedek dosyasının bulunmaması durumunda veriler kalıcı ve geri alınamaz biçimde yok olur. YASALARIN İZİN VERDİĞİ EN GENİŞ ÖLÇÜDE GELİŞTİRİCİ; CİHAZ KAYBI, DONANIM ARIZASI VEYA YEDEK BULUNMAMASINDAN KAYNAKLANAN HİÇBİR VERİ KAYBINDAN, MADDİ/MANEVİ ZARARDAN VEYA KAÇIRILAN GARANTİ HAKLARINDAN SORUMLU TUTULAMAZ. TÜM RİSK KULLANICIYA AİTTİR.
+- **Yedek Alma Yükümlülüğü**: Ayarlar > Veri Yönetimi > "Yedekle (Dışa Aktar)" üzerinden şifreli bir yedek dosyasını (`.vcb`) seçtiğiniz harici bir depolama ortamına (USB bellek, bilgisayar, kişisel depolama vb.) düzenli olarak aktarmak tamamen ve münhasıran sizin sorumluluğunuzdadır. Bir yedeği geri yüklemek, cihazdaki mevcut kayıtların ve dosyaların yerini alır.
+- **Yedek Parolası**: Yedeğinizi parolayla koruyabilirsiniz. Unutulan parola, Geliştirici dâhil hiç kimse tarafından kurtarılamaz. Parolasız bir yedek, dosyaya ve Vancrone uygulamasına sahip olan herkes tarafından açılabilir.
+- **Kaybolan Şifreleme Anahtarı**: Cihazdaki şifreleme anahtarı kullanılamaz hâle gelirse mevcut kayıtlar açılamaz; Vancrone açılamayan verileri ayrı bir klasörde saklar ve yedekten geri yükleme ya da boş kasayla başlama seçeneği sunar. Yedek yoksa kayıtlar kurtarılamaz.
+- **Kesin Sorumluluk Reddi**: Cihazınızın kaybolması, çalınması, kırılması, hasar görmesi, suya maruz kalması veya fabrika ayarlarına sıfırlanması, Uygulamanın kaldırılması, uygulama verilerinin silinmesi ya da güncel bir yedek dosyasını saklamamanız durumunda cihazdaki tüm Kullanıcı İçeriği kalıcı ve geri döndürülemez biçimde kaybolabilir. YASALARIN İZİN VERDİĞİ EN GENİŞ ÖLÇÜDE GELİŞTİRİCİ; CİHAZ ARIZASI, UNUTULAN YEDEK PAROLASI VEYA DIŞA AKTARILMIŞ YEDEK EKSİKLİĞİNDEN KAYNAKLANAN VERİ KAYBI, DOĞRUDAN VEYA DOLAYLI MADDİ ZARAR YA DA GERÇEKLEŞMEYEN GARANTİ TALEPLERİ İÇİN HER TÜRLÜ SORUMLULUĞU AÇIKÇA REDDEDER. TÜM RİSKLER TAMAMEN KULLANICIYA AİTTİR.
 
-## 8. Yasaklanan Davranışlar
+## 8. Cihaz Güvenliği
 
-Uygulamayı tersine mühendisliğe tabi tutmamayı, kaynak koda dönüştürmemeyi, şifreli veritabanı yapısını veya algoritmalarını kopyalamamayı; güvenlik ve lisans koruma mekanizmalarını devre dışı bırakmamayı kabul edersiniz.
+Root belirtisi tespit edilirse Vancrone bir güvenlik uyarısı gösterir ve riski kabul ederek devam etmeyi ya da çıkmayı seçmenize izin verir. Root'lu veya başka şekilde değiştirilmiş cihazlarda diğer uygulamalar kayıtlarınızı ve şifreleme anahtarını okuyabilir; Geliştirici bu tür cihazlardaki verilerin korunmasını garanti edemez.
 
-## 9. Garantilerin Reddi ("OLDUĞU GİBİ")
+## 9. Yasaklanan Davranışlar
 
-YÜRÜRLÜKTEKİ MEVZUATIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE VANCRONE, "OLDUĞU GİBİ" (AS IS) VE "MEVCUT OLDUĞU ŞEKLİYLE" SUNULUR. TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA KESİNTİSİZ ÇALIŞMA DÂHİL AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEZ.
+Yürürlükteki hukukun açıkça izin verdiği durumlar dışında Uygulamada tersine mühendislik yapmamayı, kaynak koda dönüştürmemeyi veya parçalarına ayırmamayı; özel veritabanı şemalarını, şifreleme rutinlerini veya algoritmaları kopyalamamayı; Uygulamanın güvenlik mekanizmalarını atlatmamayı veya manipüle etmemeyi; Uygulamayı, raporlarını veya QR kodlarını sahte kayıt oluşturmak ya da üçüncü kişileri yanıltmak için kullanmamayı kabul edersiniz.
 
-## 10. Sorumluluğun Sınırlandırılması
+## 10. Garantilerin Reddi ("OLDUĞU GİBİ")
 
-GELİŞTİRİCİNİN BU SÖZLEŞMEDEN VEYA UYGULAMANIN KULLANIMINDAN DOĞABİLECEK TÜM TALEPLER BAKIMINDAN KULLANICIYA KARŞI TOPLAM SORUMLULUĞU, TALEP TARİHİNDEN ÖNCEKİ SON ON İKİ (12) AY İÇİNDE UYGULAMA İÇİN GELİŞTİRİCİYE FİİLEN ÖDENEN TUTARI AŞAMAZ (HİÇBİR ÖDEME YAPILMADIYSA BU TUTAR SIFIRDIR).
+YÜRÜRLÜKTEKİ YASALARIN İZİN VERDİĞİ EN GENİŞ ÖLÇÜDE VANCRONE, "OLDUĞU GİBİ" VE "MEVCUT HÂLİYLE"; TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE HAK İHLALİ YAPILMAMASI DÂHİL AÇIK, ZIMNİ VEYA KANUNİ HİÇBİR GARANTİ OLMAKSIZIN SUNULUR.
 
-## 11. Koşulların Güncellenmesi
+## 11. Sorumluluğun Sınırlandırılması
 
-Geliştirici, bu Koşulları zaman zaman güncelleme hakkını saklı tutar. Değişiklikler yayınlandığı tarihte yürürlüğe girer. Uygulamayı kullanmaya devam etmeniz güncel şartları kabul ettiğiniz anlamına gelir.
+YASALARIN İZİN VERDİĞİ EN GENİŞ ÖLÇÜDE, GELİŞTİRİCİNİN BU KOŞULLARDAN VEYA UYGULAMADAN DOĞAN YA DA BUNLARLA İLGİLİ TOPLAM SORUMLULUĞU, TALEPTEN ÖNCEKİ ON İKİ (12) AY İÇİNDE UYGULAMA İÇİN GELİŞTİRİCİYE FİİLEN ÖDEDİĞİNİZ TUTARI AŞAMAZ (UYGULAMAYI ÜCRETSİZ KULLANDIYSANIZ BU TUTAR SIFIRDIR). Bu Koşullardaki hiçbir hüküm, kast veya ağır ihmal dâhil olmak üzere yürürlükteki hukuka göre kaldırılamayan veya sınırlandırılamayan sorumluluğu kaldırmaz veya sınırlandırmaz.
 
-## 12. Uygulanacak Hukuk
+## 12. Koşulların Güncellenmesi
 
-Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın Türkiye Cumhuriyeti hukukuna tabidir; tüketicilerin ikamet ettikleri ülkedeki emredici tüketici koruma hakları saklıdır.
+Geliştirici bu Koşulları zaman zaman değiştirebilir. Güncellenmiş Koşullar "Son güncelleme" tarihi değiştirilerek yayımlandığı andan itibaren yürürlüğe girer; ücretli özellik veya reklam eklenmesi gibi esaslı değişiklikler yürürlüğe girmeden önce yayımlanır. Bu tarihten sonra Vancrone'u kullanmaya devam etmeniz güncellenmiş Koşulları kabul ettiğiniz anlamına gelir.
 
-## 13. İletişim ve Geri Bildirim
+## 13. Uygulanacak Hukuk
+
+Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın Türkiye Cumhuriyeti hukukuna tabidir; ancak bulunduğunuz ülkenin sözleşmeyle bertaraf edilemeyen emredici tüketici koruma hükümleri saklıdır.
+
+## 14. İletişim ve Geri Bildirim
 
 Gereksiz spam e-postaların ve otomatik tarama botlarının önlenmesi adına geliştirici iletişimleri doğrudan uygulama içerisine entegre edilmiştir.
 
-Kullanıcılar; her türlü soru, hata bildirimi ve önerilerini **Vancrone uygulaması içindeki Ayarlar > Hakkında menüsünde yer alan "Hata Bildir & Geri Bildirim" formu** üzerinden veya Google Play mağaza sayfasındaki doğrulanmış geliştirici iletişim kanalı aracılığıyla iletebilirler. İletilen geri bildirimler, geliştirme süreçleri ve kapasite dâhilinde incelenir.
+Kullanıcılar her türlü soru, hata bildirimi ve önerilerini **Ayarlar > Hakkında menüsündeki "Hata Bildir & Geri Bildirim" formu** üzerinden iletebilir (günde en fazla iki bildirim). Form; mesajınızı, isteğe bağlı olarak girdiğiniz e-posta adresini ve temel cihaz ile uygulama sürümü bilgilerini Gizlilik Politikası'nda açıklandığı şekilde Geliştiriciye gönderir. Google Play mağaza sayfasındaki doğrulanmış geliştirici iletişim kanalını kullanabilir veya vancrone.app@gmail.com adresine yazabilirsiniz. İletilen geri bildirimler, geliştirme süreçleri ve kapasite dâhilinde incelenir.
