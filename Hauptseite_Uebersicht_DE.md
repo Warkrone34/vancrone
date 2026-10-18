@@ -1,6 +1,6 @@
 # Vancrone Startseiten-Leitfaden & Funktionsübersicht
 
-> Dieses Dokument ist das offizielle Benutzerhandbuch zu Startbildschirm, Garantieverwaltung, Tools und Sicherheitsfunktionen von Vancrone. Letzte Aktualisierung: 15. Oktober 2026.
+> Dieses Dokument ist das offizielle Benutzerhandbuch zu Startbildschirm, Garantieverwaltung, Tools und Sicherheitsfunktionen von Vancrone. Letzte Aktualisierung: 16. Oktober 2026.
 
 ---
 
@@ -56,8 +56,8 @@ Tippen Sie auf eine Karte, um die Produktdetails zu öffnen; halten Sie sie gedr
 
 Die `+`-Schaltfläche unten rechts bietet drei Optionen:
 
-- **Manuell hinzufügen:** Ein Formular für Produktname, Symbol, Preis und Währung, Kategorie, Ablaufdatum, **Rückgaberecht** (Anzahl Tage) und **Nutzungsintensität**. Unter **Dokumente & Beweise** können Sie eine Rechnung, ein Garantiedokument (Bild oder PDF bis 25 MiB), ein Produktbild und ein Beweisvideo anhängen sowie festhalten, wo die Papierkopie aufbewahrt wird. Der **Serien-Eingabemodus** lässt das Formular nach dem Speichern geöffnet, sodass Sie mehrere Produkte nacheinander erfassen können.
-- **Garantie-Scan (Beta):** Fotografieren oder wählen Sie einen Kassenbon, eine Rechnung oder ein Garantiedokument. Der Text wird auf Ihrem Gerät gelesen, und Produktname, Preis, Währung und Daten werden vorgeschlagen; nicht eindeutig angegebene Werte werden als „Geschätzt“ markiert. Gleichen Sie die Felder vor dem Speichern immer mit dem Original ab.
+- **Manuell hinzufügen:** Ein Formular für Produktname, Symbol, Preis und Währung, Kategorie, Ablaufdatum und **Rückgaberecht** (1–90 Tage, standardmäßig 14). Unter **Dokumente & Beweise** fügen Sie mit **Rechnung oder Dokument hinzufügen** bis zu 5 Fotos oder PDFs auf einmal hinzu (große Fotos werden automatisch verkleinert, PDFs bis 50 MiB), dazu ein Produktbild und ein Beweisvideo; außerdem halten Sie fest, wo die Papierkopie aufbewahrt wird. Der **Serien-Eingabemodus** lässt das Formular nach dem Speichern geöffnet, sodass Sie mehrere Produkte nacheinander erfassen können.
+- **Garantie-Scan (Beta):** Fotografieren oder wählen Sie einen Kassenbon, eine Rechnung oder ein Garantiedokument. Der Text wird auf Ihrem Gerät gelesen, und Produktname, Preis, Währung und Daten werden vorgeschlagen; nicht eindeutig angegebene Werte werden als „Geschätzt“ markiert. Gleichen Sie die Felder vor dem Speichern immer mit dem Original ab. Das gescannte Bild wird den Dokumenten des Produkts hinzugefügt.
 - **Thermobeleg-Retter:** Macht verblasste Thermobelege mit Kontrast- und Schärfefiltern besser lesbar und bewahrt die Ergebnisse in einem eigenen Archiv auf.
 
 Beim Herunterscrollen erscheint eine Schaltfläche, die Sie an den Anfang der Liste zurückbringt.
@@ -66,7 +66,7 @@ Beim Herunterscrollen erscheint eine Schaltfläche, die Sie an den Anfang der Li
 
 ## 7. Produktdetails
 
-- **Dokumente:** Rechnung und Garantiedokument in voller Größe ansehen.
+- **Rechnungen & Dokumente:** Alle angehängten Fotos und PDFs; tippen Sie auf eines, um es in voller Größe anzusehen oder das PDF zu öffnen.
 - **Mögliche Rückgabe Aktiv:** Zeigt die verbleibenden Tage der von Ihnen eingegebenen Rückgabefrist. Rückgabebedingungen variieren je nach Land und Kategorie.
 - **Beweisvideo:** Das mit Zeitstempel versehene Beweisvideo abspielen oder herunterladen.
 - **Serviceverlauf:** Serviceeinträge mit Titel, Beschreibung und Kosten hinzufügen.

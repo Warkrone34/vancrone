@@ -1,6 +1,6 @@
 # Endbenutzer-Lizenzvereinbarung & Diebstahlschutz-Klausel (EULA)
 
-> Dieses Dokument ist die vollständige deutsche Vereinbarung über die Lizenzbedingungen, Nutzungsbestimmungen und Haftungsbeschränkungen der Anwendung Vancrone. Letzte Aktualisierung: 15. Oktober 2026.
+> Dieses Dokument ist die vollständige deutsche Vereinbarung über die Lizenzbedingungen, Nutzungsbestimmungen und Haftungsbeschränkungen der Anwendung Vancrone. Letzte Aktualisierung: 16. Oktober 2026.
 
 ## 1. Annahme der Bedingungen
 
@@ -26,7 +26,7 @@ Der Entwickler kann künftig optionale, einmalige „Pro“- und „Business“-
 
 ## 5. Ihre Inhalte und Verantwortlichkeiten
 
-„Benutzerinhalte“ sind alle Inhalte, die Sie in Vancrone eingeben oder speichern, darunter Produkteinträge (Namen, Preise, Währungen, Kategorien, Kauf-, Ablauf- und Rückgabedaten, Nutzungsintensität), Bilder oder PDFs von Rechnungen und Garantiedokumenten, Produktfotos, Videobeweise, Notizen und Fotos zum Aufbewahrungsort Ihrer Papierdokumente, Serviceeinträge sowie mit dem Thermobeleg-Retter gespeicherte Bilder. Der Entwickler greift nicht auf Ihre Benutzerinhalte zu, prüft sie nicht und beansprucht kein Eigentum daran. Sie allein sind verantwortlich für die Richtigkeit und Rechtmäßigkeit Ihrer Benutzerinhalte, für unabhängige Kopien aller wichtigen Dokumente außerhalb des Geräts und für die Sicherheit Ihres Geräts.
+„Benutzerinhalte“ sind alle Inhalte, die Sie in Vancrone eingeben oder speichern, darunter Produkteinträge (Namen, Preise, Währungen, Kategorien, Kauf-, Ablauf- und Rückgabedaten), Bilder oder PDFs von Rechnungen und Garantiedokumenten, Produktfotos, Videobeweise, Notizen und Fotos zum Aufbewahrungsort Ihrer Papierdokumente, Serviceeinträge sowie mit dem Thermobeleg-Retter gespeicherte Bilder. Der Entwickler greift nicht auf Ihre Benutzerinhalte zu, prüft sie nicht und beansprucht kein Eigentum daran. Sie allein sind verantwortlich für die Richtigkeit und Rechtmäßigkeit Ihrer Benutzerinhalte, für unabhängige Kopien aller wichtigen Dokumente außerhalb des Geräts und für die Sicherheit Ihres Geräts.
 
 ## 6. Garantie-Scan (Beta) und Rückgabefristen — Haftungsausschluss
 

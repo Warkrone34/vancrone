@@ -1,6 +1,6 @@
 # Vancrone Ana Sayfa Rehberi ve Özellik Özeti
 
-> Bu belge; Vancrone'un ana ekranını, garanti takibini, araçlarını ve güvenlik özelliklerini anlatan resmî kullanım kılavuzudur. Son güncelleme: 15 Ekim 2026.
+> Bu belge; Vancrone'un ana ekranını, garanti takibini, araçlarını ve güvenlik özelliklerini anlatan resmî kullanım kılavuzudur. Son güncelleme: 16 Ekim 2026.
 
 ---
 
@@ -56,8 +56,8 @@ Her kart; ürün görselini veya simgesini, ürün adını, kategorisini (Elektr
 
 Sağ alt köşedeki `+` düğmesi üç seçenek sunar:
 
-- **Elle Ekle:** Ürün adı, simge, fiyat ve para birimi, kategori, bitiş tarihi, **İade Hakkı** (gün sayısı) ve **Kullanım Yoğunluğu** alanlarını içeren form. **Belgeler ve Kanıtlar** bölümünde fatura, garanti belgesi (25 MiB'a kadar görsel veya PDF), ürün görseli ve kanıt videosu ekleyebilir, fiziksel kopyanın nerede durduğunu kaydedebilirsiniz. **Seri Giriş Modu**, kaydettikten sonra formu açık tutarak arka arkaya birden çok ürün girmenizi sağlar.
-- **Garanti Yakala (Beta):** Fiş, fatura veya garanti belgesinin fotoğrafını çekin ya da seçin. Metin cihazınızda okunur; ürün adı, fiyat, para birimi ve tarihler önerilir, belgede açıkça yazmayan değerler "Tahmini" olarak işaretlenir. Kaydetmeden önce alanları mutlaka orijinal belgeyle karşılaştırın.
+- **Elle Ekle:** Ürün adı, simge, fiyat ve para birimi, kategori, bitiş tarihi ve **İade Hakkı** (1–90 gün, varsayılan 14 gün) alanlarını içeren form. **Belgeler ve Kanıtlar** bölümündeki **Fatura veya belge ekle** düğmesiyle tek seferde en fazla 5 fotoğraf veya PDF ekleyebilirsiniz (büyük fotoğraflar otomatik küçültülür, PDF en fazla 50 MiB); ayrıca ürün görseli ve kanıt videosu ekleyebilir, fiziksel kopyanın nerede durduğunu kaydedersiniz. **Seri Giriş Modu**, kaydettikten sonra formu açık tutarak arka arkaya birden çok ürün girmenizi sağlar.
+- **Garanti Yakala (Beta):** Fiş, fatura veya garanti belgesinin fotoğrafını çekin ya da seçin. Metin cihazınızda okunur; ürün adı, fiyat, para birimi ve tarihler önerilir, belgede açıkça yazmayan değerler "Tahmini" olarak işaretlenir. Kaydetmeden önce alanları mutlaka orijinal belgeyle karşılaştırın. Taranan görsel ürünün belgelerine eklenir.
 - **Termal Fiş Kurtarıcı:** Silikleşmiş termal fişleri kontrast ve netleştirme filtreleriyle okunabilir hâle getirir ve sonuçları kendi arşivinde saklar.
 
 Listeyi aşağı kaydırdığınızda başa dönme düğmesi belirir.
@@ -66,7 +66,7 @@ Listeyi aşağı kaydırdığınızda başa dönme düğmesi belirir.
 
 ## 7. Ürün Detayı
 
-- **Belgeler:** Faturayı ve garanti belgesini tam boyutta görüntüleyin.
+- **Faturalar ve Belgeler:** Eklenen tüm fotoğraf ve PDF'ler; birine dokunarak tam boyutta görüntüleyin veya PDF'i açın.
 - **Olası İade Aktif:** Girdiğiniz iade süresinde kalan günleri gösterir. İade koşulları ülkeye ve kategoriye göre değişir.
 - **Kanıt Videosu:** Zaman damgalı kanıt videosunu oynatın veya indirin.
 - **Servis Geçmişi:** Başlık, açıklama ve ücret içeren servis kayıtları ekleyin.

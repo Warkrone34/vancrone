@@ -1,6 +1,6 @@
 # Kullanıcı Sözleşmesi ve Hırsızlığa Karşı Koruma (EULA)
 
-> Bu belge, Vancrone uygulamasının lisans koşullarını, kullanım şartlarını ve sorumluluk sınırlarını düzenleyen Türkçe sözleşme metnidir. Son güncelleme: 15 Ekim 2026.
+> Bu belge, Vancrone uygulamasının lisans koşullarını, kullanım şartlarını ve sorumluluk sınırlarını düzenleyen Türkçe sözleşme metnidir. Son güncelleme: 16 Ekim 2026.
 
 ## 1. Şartların Kabulü
 
@@ -26,7 +26,7 @@ Geliştirici ileride Google Play Faturalandırma üzerinden isteğe bağlı, tek
 
 ## 5. İçeriğiniz ve Sorumluluklarınız
 
-"Kullanıcı İçeriği"; Vancrone'a girdiğiniz veya Vancrone'da sakladığınız her şeyi ifade eder: ürün kayıtları (ad, fiyat, para birimi, kategori, satın alma, bitiş ve iade tarihleri, kullanım yoğunluğu), fatura ve garanti belgesi görselleri veya PDF'leri, ürün fotoğrafları, kanıt videoları, fiziksel belgelerin nerede saklandığına ilişkin not ve fotoğraflar, servis kayıtları ve Termal Fiş Kurtarıcı ile kaydedilen görseller. Geliştirici, Kullanıcı İçeriğinize erişmez, onu incelemez ve üzerinde mülkiyet iddiasında bulunmaz. Girdiğiniz verilerin doğruluğu ve hukuka uygunluğu, önemli belgelerinizin cihaz dışında kopyalarını saklamak ve cihazınızın güvenliğini sağlamak tamamen sizin sorumluluğunuzdadır.
+"Kullanıcı İçeriği"; Vancrone'a girdiğiniz veya Vancrone'da sakladığınız her şeyi ifade eder: ürün kayıtları (ad, fiyat, para birimi, kategori, satın alma, bitiş ve iade tarihleri), fatura ve garanti belgesi görselleri veya PDF'leri, ürün fotoğrafları, kanıt videoları, fiziksel belgelerin nerede saklandığına ilişkin not ve fotoğraflar, servis kayıtları ve Termal Fiş Kurtarıcı ile kaydedilen görseller. Geliştirici, Kullanıcı İçeriğinize erişmez, onu incelemez ve üzerinde mülkiyet iddiasında bulunmaz. Girdiğiniz verilerin doğruluğu ve hukuka uygunluğu, önemli belgelerinizin cihaz dışında kopyalarını saklamak ve cihazınızın güvenliğini sağlamak tamamen sizin sorumluluğunuzdadır.
 
 ## 6. Garanti Yakala (Beta) ve İade Süreleri — Doğruluk Sorumluluk Reddi
 

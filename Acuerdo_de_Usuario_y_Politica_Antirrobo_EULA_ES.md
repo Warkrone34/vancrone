@@ -1,6 +1,6 @@
 # Acuerdo de Licencia de Usuario Final y Política Antirrobo (EULA)
 
-> Este documento es el contrato completo en español que rige las condiciones de licencia, términos de uso y límites de responsabilidad de la aplicación Vancrone. Última actualización: 15 de octubre de 2026.
+> Este documento es el contrato completo en español que rige las condiciones de licencia, términos de uso y límites de responsabilidad de la aplicación Vancrone. Última actualización: 16 de octubre de 2026.
 
 ## 1. Aceptación de los Términos
 
@@ -26,7 +26,7 @@ En el futuro, el Desarrollador podrá ofrecer mejoras opcionales de pago único 
 
 ## 5. Su Contenido y Responsabilidades
 
-"Contenido de Usuario" es todo lo que usted introduce o guarda en Vancrone, incluidos los registros de productos (nombres, precios, monedas, categorías, fechas de compra, vencimiento y devolución, intensidad de uso), imágenes o PDF de facturas y documentos de garantía, fotos de productos, vídeos de prueba, notas y fotos sobre dónde guarda sus documentos físicos, registros de servicio técnico e imágenes guardadas con el Restaurador de Recibos Térmicos. El Desarrollador no accede a su Contenido de Usuario, no lo inspecciona ni reclama su propiedad. Usted es el único responsable de la exactitud y legalidad de su Contenido de Usuario, de conservar copias independientes de todos los documentos importantes fuera del dispositivo y de la seguridad de su dispositivo.
+"Contenido de Usuario" es todo lo que usted introduce o guarda en Vancrone, incluidos los registros de productos (nombres, precios, monedas, categorías, fechas de compra, vencimiento y devolución), imágenes o PDF de facturas y documentos de garantía, fotos de productos, vídeos de prueba, notas y fotos sobre dónde guarda sus documentos físicos, registros de servicio técnico e imágenes guardadas con el Restaurador de Recibos Térmicos. El Desarrollador no accede a su Contenido de Usuario, no lo inspecciona ni reclama su propiedad. Usted es el único responsable de la exactitud y legalidad de su Contenido de Usuario, de conservar copias independientes de todos los documentos importantes fuera del dispositivo y de la seguridad de su dispositivo.
 
 ## 6. Captura de garantía (Beta) y Plazos de Devolución — Exención de Responsabilidad
 

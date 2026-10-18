@@ -1,6 +1,6 @@
 # Vancrone Homepage Guide & Feature Overview
 
-> This document is the official user manual describing the home screen, warranty tracking, tools, and security features of Vancrone. Last updated: October 15, 2026.
+> This document is the official user manual describing the home screen, warranty tracking, tools, and security features of Vancrone. Last updated: October 16, 2026.
 
 ---
 
@@ -56,8 +56,8 @@ Tap a card to open the product detail; long-press it to start selection mode. Wa
 
 The `+` button in the lower-right corner opens three options:
 
-- **Add Manually:** A form for the product name, icon, price and currency, category, expiry date, **Return Right** (number of days), and **Usage Intensity**. Under **Docs & Evidence** you can attach an invoice, a warranty document (image or PDF up to 25 MiB), a product image, and a proof video, and record where the physical copy is kept. **Serial Entry Mode** keeps the form open after saving so you can enter several items in a row.
-- **Warranty Capture (Beta):** Photograph or choose a receipt, invoice, or warranty document. The text is read on your device and the product name, price, currency, and dates are suggested; values that are not clearly stated are marked "Estimated". Always check the fields against the original before saving.
+- **Add Manually:** A form for the product name, icon, price and currency, category, expiry date, and **Return Right** (1–90 days, 14 by default). Under **Docs & Evidence**, the **Add invoice or document** button lets you attach up to 5 photos or PDFs at once (large photos are reduced automatically, PDFs up to 50 MiB), plus a product image and a proof video; you also record where the physical copy is kept. **Serial Entry Mode** keeps the form open after saving so you can enter several items in a row.
+- **Warranty Capture (Beta):** Photograph or choose a receipt, invoice, or warranty document. The text is read on your device and the product name, price, currency, and dates are suggested; values that are not clearly stated are marked "Estimated". Always check the fields against the original before saving. The scanned image is added to the item's documents.
 - **Thermal Receipt Restorer:** Makes faded thermal receipts easier to read with contrast and sharpening filters, and keeps the results in its own archive.
 
 A scroll-to-top button appears when you scroll down the list.
@@ -66,7 +66,7 @@ A scroll-to-top button appears when you scroll down the list.
 
 ## 7. Product Detail
 
-- **Documents:** View the invoice and warranty document in full size.
+- **Invoices & Documents:** All attached photos and PDFs; tap one to view it in full size or open the PDF.
 - **Possible Return Active:** Shows the days left in the return period you entered. Return conditions vary by country and category.
 - **Proof Video:** Play or download the timestamped proof video.
 - **Service History:** Add service records with a title, description, and cost.

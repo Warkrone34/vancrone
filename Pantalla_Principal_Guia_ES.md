@@ -1,6 +1,6 @@
 # Guía de la Pantalla Principal y Resumen de Funciones de Vancrone
 
-> Este documento es el manual oficial que describe la pantalla principal, el seguimiento de garantías, las herramientas y las funciones de seguridad de Vancrone. Última actualización: 15 de octubre de 2026.
+> Este documento es el manual oficial que describe la pantalla principal, el seguimiento de garantías, las herramientas y las funciones de seguridad de Vancrone. Última actualización: 16 de octubre de 2026.
 
 ---
 
@@ -56,8 +56,8 @@ Toque una tarjeta para abrir el detalle del producto; manténgala pulsada para i
 
 El botón `+` de la esquina inferior derecha ofrece tres opciones:
 
-- **Añadir Manualmente:** Un formulario con nombre del producto, icono, precio y moneda, categoría, fecha de vencimiento, **Derecho de Devolución** (número de días) e **Intensidad de Uso**. En **Docs y Pruebas** puede adjuntar una factura, un documento de garantía (imagen o PDF de hasta 25 MiB), una imagen del producto y un vídeo de prueba, y anotar dónde guarda la copia física. El **Modo de Entrada Continua** mantiene el formulario abierto tras guardar para introducir varios artículos seguidos.
-- **Captura de garantía (Beta):** Fotografíe o elija un recibo, una factura o un documento de garantía. El texto se lee en su dispositivo y se sugieren el nombre del producto, el precio, la moneda y las fechas; los valores que no aparecen claramente se marcan como "Estimado". Compare siempre los campos con el original antes de guardar.
+- **Añadir Manualmente:** Un formulario con nombre del producto, icono, precio y moneda, categoría, fecha de vencimiento y **Derecho de Devolución** (de 1 a 90 días, 14 por defecto). En **Docs y Pruebas**, el botón **Añadir factura o documento** permite adjuntar hasta 5 fotos o PDF a la vez (las fotos grandes se reducen automáticamente; los PDF, hasta 50 MiB), además de una imagen del producto y un vídeo de prueba; también anota dónde guarda la copia física. El **Modo de Entrada Continua** mantiene el formulario abierto tras guardar para introducir varios artículos seguidos.
+- **Captura de garantía (Beta):** Fotografíe o elija un recibo, una factura o un documento de garantía. El texto se lee en su dispositivo y se sugieren el nombre del producto, el precio, la moneda y las fechas; los valores que no aparecen claramente se marcan como "Estimado". Compare siempre los campos con el original antes de guardar. La imagen escaneada se añade a los documentos del artículo.
 - **Restaurador de Recibos Térmicos:** Hace más legibles los recibos térmicos desvaídos con filtros de contraste y nitidez, y guarda los resultados en su propio archivo.
 
 Al desplazarse hacia abajo aparece un botón para volver al principio de la lista.
@@ -66,7 +66,7 @@ Al desplazarse hacia abajo aparece un botón para volver al principio de la list
 
 ## 7. Detalle del Producto
 
-- **Documentos:** Vea la factura y el documento de garantía a tamaño completo.
+- **Facturas y documentos:** Todas las fotos y PDF adjuntos; toque uno para verlo a tamaño completo o abrir el PDF.
 - **Posible Devolución Activa:** Muestra los días que quedan del plazo de devolución que introdujo. Las condiciones de devolución varían según el país y la categoría.
 - **Vídeo de prueba:** Reproduzca o descargue el vídeo de prueba con marca de tiempo.
 - **Historial de Servicio:** Añada registros de servicio técnico con título, descripción y coste.

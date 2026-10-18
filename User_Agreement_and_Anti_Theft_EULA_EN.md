@@ -1,6 +1,6 @@
 # End User License Agreement & Anti-Theft Policy (EULA)
 
-> This document is the comprehensive English agreement governing the licensing conditions, terms of use, and liability limitations of the Vancrone application. Last updated: October 15, 2026.
+> This document is the comprehensive English agreement governing the licensing conditions, terms of use, and liability limitations of the Vancrone application. Last updated: October 16, 2026.
 
 ## 1. Acceptance of Terms
 
@@ -26,7 +26,7 @@ The Developer may in the future offer optional one-time "Pro" and "Business" upg
 
 ## 5. Your Content and Responsibilities
 
-"User Content" means everything you enter into or store in Vancrone, including product records (names, prices, currencies, categories, purchase, expiry, and return dates, usage intensity), invoice and warranty document images or PDFs, product photos, proof videos, notes and photos about where your physical documents are kept, service records, and images saved with the Thermal Receipt Restorer. The Developer does not access, inspect, or claim ownership of your User Content. You are solely responsible for the accuracy and legality of your User Content, for maintaining independent off-device copies of all critical documents, and for securing your physical device.
+"User Content" means everything you enter into or store in Vancrone, including product records (names, prices, currencies, categories, purchase, expiry, and return dates), invoice and warranty document images or PDFs, product photos, proof videos, notes and photos about where your physical documents are kept, service records, and images saved with the Thermal Receipt Restorer. The Developer does not access, inspect, or claim ownership of your User Content. You are solely responsible for the accuracy and legality of your User Content, for maintaining independent off-device copies of all critical documents, and for securing your physical device.
 
 ## 6. Warranty Capture (Beta) and Return Periods — Accuracy Disclaimer
 
