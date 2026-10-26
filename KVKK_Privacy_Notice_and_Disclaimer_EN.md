@@ -22,19 +22,19 @@ The limited categories of data processed in connection with the app are:
 
 - Crash Diagnostics (Google Firebase Crashlytics): Stack trace, device model, Android version, app version, a random installation identifier, and the time of the error, used to diagnose and fix stability bugs. This data is pseudonymous: it is not linked to your name or email address and contains no User Content.
 - Purchase and License Data (Google Play Billing): The current version offers no in-app purchases and does not connect to Google Play Billing, so no purchase data is processed. If optional Pro/Business upgrades are introduced, order and purchase status information will be processed to deliver the features you buy; payment details will be handled only by Google, and this Notice will be updated beforehand.
-- Feedback Messages (only when you send one): Your message, the email address you optionally enter, device manufacturer and model, Android version, app version, and time of sending, used to answer you and fix the reported issue.
+- Feedback Messages (only when you send one): Your message, the email address you send it from, device manufacturer and model, Android version, app version, and time of sending, used to answer you and fix the reported issue.
 
 The current version of the app does not display ads and does not include the Google AdMob SDK. If advertising is introduced, this Notice will be updated before that release.
 
 ## 3. Collection Method and Legal Basis
 
-Collection Method: Crash reports are collected automatically from your device during app usage via the integrated Firebase Crashlytics library (and, if purchases are introduced, purchase data via Google Play Billing). Feedback messages are collected only when you submit the feedback form, and are transmitted over HTTPS to a Google Apps Script endpoint operated by the Developer.
+Collection Method: Crash reports are collected automatically from your device during app usage via the integrated Firebase Crashlytics library (and, if purchases are introduced, purchase data via Google Play Billing). Feedback messages are received only when you choose to send an email from your own email app to the Developer's address (vancrone.app@gmail.com); the app itself does not transmit them.
 
 Legal Basis under GDPR / KVKK: Crash diagnostics are processed on the legal basis of legitimate interest (maintaining an operational, secure, and bug-free application), provided that this does not harm your fundamental rights and freedoms. Purchase data is processed for the performance of a contract (delivering purchased digital features). Feedback messages are processed on the basis of legitimate interest in answering the request you initiated. If personalized advertising is ever introduced, it will rely on your explicit consent.
 
 ## 4. Data Transfers and Recipients
 
-Your data may be transferred to Google Ireland Limited / Google LLC and their affiliates acting as data processors for Firebase Crashlytics, Google Play Billing, and the Google infrastructure that hosts the feedback endpoint. The application features no Google Drive API synchronization and does not send your User Content to any server. We do not sell your personal data, and we never transfer your User Content to any third party — because we never receive it in the first place.
+Your data may be transferred to Google Ireland Limited / Google LLC and their affiliates acting as data processors for Firebase Crashlytics, Google Play Billing, and Gmail, which hosts the Developer's support mailbox. The application features no Google Drive API synchronization and does not send your User Content to any server. We do not sell your personal data, and we never transfer your User Content to any third party — because we never receive it in the first place.
 
 ## 5. Cross-Border Data Transfers
 

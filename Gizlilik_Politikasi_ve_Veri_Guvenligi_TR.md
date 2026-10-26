@@ -48,7 +48,7 @@ Vancrone, çalışabilmek için Google tarafından sağlanan sınırlı sayıda 
 
 Vancrone kendine ait herhangi bir sunucu işletmez. Geliştirici; kayıtlarınız için hiçbir bulut arka ucu (backend), kullanıcı hesabı veya uzak veritabanı çalıştırmaz. 6. bölümde açıklanan Google hizmetleri dışında cihazınızdan yalnızca sizin başlattığınız durumlarda veri çıkar:
 
-- Geri Bildirim Formu: Ayarlar > "Hata Bildir & Geri Bildirim" üzerinden mesaj gönderdiğinizde; mesajınız (en fazla 500 karakter), isteğe bağlı olarak girdiğiniz e-posta adresi, cihaz üreticisi ve modeli, Android sürümü, uygulama sürümü ve gönderim zamanı HTTPS üzerinden Geliştiricinin Google altyapısında çalıştırdığı bir Google Apps Script uç noktasına iletilir. Bu bilgiler yalnızca size yanıt vermek ve bildirilen sorunu gidermek için kullanılır ve bu amaç için gerektiği süre boyunca saklanır. Lütfen geri bildirim mesajlarına hassas kişisel veri yazmayın.
+- Geri Bildirim: Ayarlar > "Hata Bildir & Geri Bildirim" ekranında Gönder'e dokunduğunuzda Uygulama hiçbir veri iletmez; kendi e-posta uygulamanızı, vancrone.app@gmail.com adresine hazırlanmış bir e-postayla açar. Bu e-posta mesajınızı, cihaz üreticisi ve modelini, Android sürümünü ve uygulama sürümünü içerir. E-postayı göndermeden önce görebilir ve düzenleyebilirsiniz; yalnızca siz kendi e-posta hesabınızdan gönderirseniz, e-posta adresinizle birlikte Geliştiricinin Gmail (Google) posta kutusuna ulaşır. Bu bilgiler yalnızca size yanıt vermek ve bildirilen sorunu gidermek için kullanılır ve bu amaç için gerektiği süre boyunca saklanır. Lütfen geri bildirim mesajlarına hassas kişisel veri yazmayın.
 - Dışa Aktarma ve Paylaşım: PDF/CSV raporları, yedekler ve paylaştığınız dosyalar yalnızca sizin seçtiğiniz hedefe gider.
 
 ## 8. Güvenlik Önlemleri

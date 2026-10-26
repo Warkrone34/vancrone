@@ -107,6 +107,6 @@ Beim Herunterscrollen erscheint eine Schaltfläche, die Sie an den Anfang der Li
 
 ## 11. Support & Feedback
 
-- Über **Einstellungen > Über > Fehler melden & Feedback** können Sie Fehlerberichte oder Vorschläge senden (höchstens zwei pro Tag). Ihre Nachricht, die optional angegebene E-Mail-Adresse sowie grundlegende Geräte- und App-Versionsinformationen werden an den Entwickler übermittelt.
+- Über **Einstellungen > Über > Fehler melden & Feedback** können Sie Fehlerberichte oder Vorschläge senden (höchstens zwei pro Tag). Ihre E-Mail-App öffnet sich mit Ihrer Nachricht sowie grundlegenden Geräte- und App-Versionsinformationen; von dort senden Sie sie an den Entwickler.
 - Sie erreichen den Entwickler auch über den verifizierten Eintrag im Google Play Store.
 - *Zum Schutz vor Spam-Crawlern und automatisierten Bots werden in diesem Leitfaden bewusst keine E-Mail-Adressen im Klartext veröffentlicht.*

@@ -107,6 +107,6 @@ A scroll-to-top button appears when you scroll down the list.
 
 ## 11. Support & Feedback
 
-- Open **Settings > About > Report a Bug & Feedback** to send a bug report or suggestion (up to two per day). Your message, the email address you optionally enter, and basic device and app version information are sent to the developer.
+- Open **Settings > About > Report a Bug & Feedback** to send a bug report or suggestion (up to two per day). Your email app opens with your message and basic device and app version information ready; you send it to the developer from there.
 - You can also reach the developer through the verified Google Play Store listing.
 - *To protect against spam crawlers and automated bots, email addresses are intentionally not published in plain text in this guide.*

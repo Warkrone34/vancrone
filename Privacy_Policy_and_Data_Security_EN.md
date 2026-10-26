@@ -48,7 +48,7 @@ To function properly, Vancrone integrates a minimal set of standard Google SDKs.
 
 Vancrone operates no servers of its own. The Developer maintains no cloud backend, no user accounts, and no remote database for your records. Apart from the Google services described in Section 6, data leaves your device only when you initiate it:
 
-- Feedback Form: When you send a message via Settings > "Report a Bug & Feedback", the message (up to 500 characters), the email address you optionally enter, your device manufacturer and model, Android version, app version, and the time of sending are transmitted over HTTPS to a Google Apps Script endpoint operated by the Developer on Google's infrastructure. This information is used only to reply to you and to fix the reported problem, and is kept only as long as needed for that purpose. Please do not include sensitive personal data in feedback messages.
+- Feedback: When you tap Send in Settings > "Report a Bug & Feedback", the app itself transmits nothing; it opens your own email app with a prepared email to vancrone.app@gmail.com containing your message, your device manufacturer and model, Android version, and app version. You can review and edit it before sending; it reaches the Developer's Gmail (Google) mailbox, together with your email address, only if you send it from your own email account. This information is used only to reply to you and to fix the reported problem, and is kept only as long as needed for that purpose. Please do not include sensitive personal data in feedback messages.
 - Export and Sharing: PDF/CSV reports, backups, and files you share go only to the destination you choose.
 
 ## 8. Security Measures

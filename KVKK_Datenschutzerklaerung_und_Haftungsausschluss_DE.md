@@ -22,19 +22,19 @@ Im Zusammenhang mit der App werden folgende begrenzte Datenkategorien verarbeite
 
 - Absturzdiagnosen (Google Firebase Crashlytics): Stacktrace, Gerätemodell, Android-Version, App-Version, eine zufällige Installationskennung und der Zeitpunkt des Fehlers, um Stabilitätsprobleme zu erkennen und zu beheben. Diese Daten sind pseudonym: Sie werden nicht mit Ihrem Namen oder Ihrer E-Mail-Adresse verknüpft und enthalten keine Benutzerinhalte.
 - Kauf- und Lizenzdaten (Google Play-Abrechnung): Die aktuelle Version bietet keine In-App-Käufe an und verbindet sich nicht mit der Google Play-Abrechnung; es werden daher keine Kaufdaten verarbeitet. Werden optionale Pro-/Business-Upgrades eingeführt, werden Bestell- und Kaufstatusinformationen verarbeitet, um die gekauften Funktionen bereitzustellen; Zahlungsdaten verarbeitet ausschließlich Google, und diese Erklärung wird vorher aktualisiert.
-- Feedback-Nachrichten (nur wenn Sie eine senden): Ihre Nachricht, die optional angegebene E-Mail-Adresse, Gerätehersteller und -modell, Android-Version, App-Version und der Sendezeitpunkt, um Ihnen zu antworten und das gemeldete Problem zu beheben.
+- Feedback-Nachrichten (nur wenn Sie eine senden): Ihre Nachricht, die E-Mail-Adresse, von der Sie sie senden, Gerätehersteller und -modell, Android-Version, App-Version und der Sendezeitpunkt, um Ihnen zu antworten und das gemeldete Problem zu beheben.
 
 Die aktuelle Version der App zeigt keine Werbung an und enthält das Google AdMob SDK nicht. Sollte Werbung eingeführt werden, wird diese Erklärung vor der betreffenden Veröffentlichung aktualisiert.
 
 ## 3. Erhebungsmethode und Rechtsgrundlage
 
-Erhebungsmethode: Absturzberichte werden während der Nutzung der App über die integrierte Bibliothek Firebase Crashlytics automatisch von Ihrem Endgerät erhoben (falls Käufe eingeführt werden, Kaufdaten über die Google Play-Abrechnung). Feedback-Nachrichten werden nur erhoben, wenn Sie das Formular absenden, und per HTTPS an einen vom Entwickler betriebenen Google-Apps-Script-Endpunkt übertragen.
+Erhebungsmethode: Absturzberichte werden während der Nutzung der App über die integrierte Bibliothek Firebase Crashlytics automatisch von Ihrem Endgerät erhoben (falls Käufe eingeführt werden, Kaufdaten über die Google Play-Abrechnung). Feedback-Nachrichten werden nur empfangen, wenn Sie sich entscheiden, aus Ihrer eigenen E-Mail-App eine E-Mail an die Adresse des Entwicklers (vancrone.app@gmail.com) zu senden; die App selbst übermittelt sie nicht.
 
 Rechtsgrundlage nach DSGVO / KVKK: Absturzdiagnosen erfolgen auf Grundlage des berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO – Gewährleistung einer funktionsfähigen, fehlerfreien und sicheren Anwendung). Kaufdaten werden zur Vertragserfüllung verarbeitet (Art. 6 Abs. 1 lit. b DSGVO). Feedback-Nachrichten werden auf Grundlage des berechtigten Interesses an der Beantwortung Ihrer Anfrage verarbeitet. Sollte personalisierte Werbung eingeführt werden, stützt sie sich auf Ihre ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
 
 ## 4. Empfänger und Weitergabe von Daten
 
-Ihre Daten können an Google Ireland Limited / Google LLC und deren verbundene Unternehmen übermittelt werden, die als Auftragsverarbeiter für Firebase Crashlytics, die Google Play-Abrechnung sowie die Google-Infrastruktur des Feedback-Endpunkts fungieren. Die Anwendung nutzt keine Google Drive API und sendet Ihre Benutzerinhalte an keinen Server. Wir verkaufen keine personenbezogenen Daten und übermitteln Ihre Benutzerinhalte an niemanden – da wir sie niemals erhalten.
+Ihre Daten können an Google Ireland Limited / Google LLC und deren verbundene Unternehmen übermittelt werden, die als Auftragsverarbeiter für Firebase Crashlytics, die Google Play-Abrechnung sowie Gmail (Support-Postfach des Entwicklers) fungieren. Die Anwendung nutzt keine Google Drive API und sendet Ihre Benutzerinhalte an keinen Server. Wir verkaufen keine personenbezogenen Daten und übermitteln Ihre Benutzerinhalte an niemanden – da wir sie niemals erhalten.
 
 ## 5. Grenzüberschreitende Datenübermittlung
 

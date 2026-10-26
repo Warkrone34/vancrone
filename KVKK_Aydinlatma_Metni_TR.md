@@ -22,19 +22,19 @@ Uygulamayla bağlantılı olarak işlenen sınırlı veri kategorileri şunlard�
 
 - Çökme tanılamaları (Google Firebase Crashlytics): Hata yığını, cihaz modeli, Android sürümü, uygulama sürümü, rastgele bir kurulum kimliği ve hatanın zamanı; uygulama kararlılığı sorunlarını tespit etmek ve gidermek amacıyla işlenir. Bu veriler takma adlıdır (pseudonymous): adınızla veya e-posta adresinizle ilişkilendirilmez ve Kullanıcı İçeriği barındırmaz.
 - Satın alma ve lisans verileri (Google Play Faturalandırma): Mevcut sürüm uygulama içi satın alma sunmaz ve Google Play Faturalandırma'ya bağlanmaz; bu nedenle satın alma verisi işlenmez. İsteğe bağlı Pro/Business yükseltmeleri sunulursa, satın aldığınız özellikleri sunmak amacıyla sipariş ve satın alma durumu bilgileri işlenir; ödeme bilgileri yalnızca Google tarafından işlenir ve bu Aydınlatma Metni önceden güncellenir.
-- Geri bildirim mesajları (yalnızca siz gönderdiğinizde): Mesajınız, isteğe bağlı olarak girdiğiniz e-posta adresi, cihaz üreticisi ve modeli, Android sürümü, uygulama sürümü ve gönderim zamanı; size yanıt vermek ve bildirilen sorunu gidermek amacıyla işlenir.
+- Geri bildirim mesajları (yalnızca siz gönderdiğinizde): Mesajınız, gönderdiğiniz e-posta adresi, cihaz üreticisi ve modeli, Android sürümü, uygulama sürümü ve gönderim zamanı; size yanıt vermek ve bildirilen sorunu gidermek amacıyla işlenir.
 
 Uygulamanın mevcut sürümü reklam göstermez ve Google AdMob SDK'sını içermez. Reklam eklenirse bu Aydınlatma Metni ilgili sürümden önce güncellenecektir.
 
 ## 3. Toplama Yöntemi ve Hukuki Sebep
 
-Toplama yöntemi: Çökme raporları, Uygulamayı kullanırken Uygulamaya yerleşik Firebase Crashlytics kütüphanesi aracılığıyla cihazınızdan otomatik yollarla toplanır (satın alma sunulursa satın alma verileri Google Play Faturalandırma aracılığıyla toplanır). Geri bildirim mesajları yalnızca formu gönderdiğinizde toplanır ve HTTPS üzerinden Geliştiricinin işlettiği bir Google Apps Script uç noktasına iletilir.
+Toplama yöntemi: Çökme raporları, Uygulamayı kullanırken Uygulamaya yerleşik Firebase Crashlytics kütüphanesi aracılığıyla cihazınızdan otomatik yollarla toplanır (satın alma sunulursa satın alma verileri Google Play Faturalandırma aracılığıyla toplanır). Geri bildirim mesajları yalnızca, kendi e-posta uygulamanızdan Geliştiricinin adresine (vancrone.app@gmail.com) e-posta göndermeyi seçtiğinizde alınır; Uygulama bu mesajları kendisi iletmez.
 
 KVKK ve GDPR kapsamındaki hukuki sebep: Çökme tanılamaları, temel hak ve özgürlüklerinize zarar vermemek kaydıyla meşru menfaat (Uygulamanın işlevsel, hatasız ve güvenli tutulması) hukuki sebebine dayanılarak işlenir. Satın alma verileri sözleşmenin kurulması ve ifası (satın alınan dijital özelliklerin sunulması) hukuki sebebine dayanır. Geri bildirim mesajları, sizin başlattığınız talebin yanıtlanmasına yönelik meşru menfaate dayanılarak işlenir. İleride kişiselleştirilmiş reklam eklenirse açık rızanıza dayanılacaktır.
 
 ## 4. Verilerinizin Kimlere ve Hangi Amaçla Aktarılabileceği
 
-Verileriniz; Firebase Crashlytics, Google Play Faturalandırma ve geri bildirim uç noktasını barındıran Google altyapısı bakımından veri işleyen konumunda olan Google Ireland Limited / Google LLC ile bunların bağlı şirketlerine aktarılabilir. Uygulama herhangi bir Google Drive API senkronizasyonu yapmaz ve Kullanıcı İçeriğinizi hiçbir sunucuya göndermez. Kişisel verilerinizi üçüncü kişilere satmıyoruz ve Kullanıcı İçeriğinizi hiç kimseye aktarmıyoruz — çünkü bu veriler cihazınızdan asla dışarı çıkmaz.
+Verileriniz; Firebase Crashlytics, Google Play Faturalandırma ve Geliştiricinin destek posta kutusunu barındıran Gmail bakımından veri işleyen konumunda olan Google Ireland Limited / Google LLC ile bunların bağlı şirketlerine aktarılabilir. Uygulama herhangi bir Google Drive API senkronizasyonu yapmaz ve Kullanıcı İçeriğinizi hiçbir sunucuya göndermez. Kişisel verilerinizi üçüncü kişilere satmıyoruz ve Kullanıcı İçeriğinizi hiç kimseye aktarmıyoruz — çünkü bu veriler cihazınızdan asla dışarı çıkmaz.
 
 ## 5. Sınır Ötesi Veri Aktarımları
 

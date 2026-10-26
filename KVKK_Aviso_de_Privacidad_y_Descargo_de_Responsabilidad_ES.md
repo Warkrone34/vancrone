@@ -22,19 +22,19 @@ Las categorías limitadas de datos que se tratan en relación con la aplicación
 
 - Diagnósticos de fallos (Google Firebase Crashlytics): Traza de pila, modelo del dispositivo, versión de Android, versión de la app, un identificador aleatorio de instalación y la hora del error, para detectar y corregir incidencias de estabilidad. Estos datos son seudónimos: no se vinculan a su nombre ni a su correo electrónico y no contienen Contenido de Usuario.
 - Datos de compras y licencias (Facturación de Google Play): La versión actual no ofrece compras dentro de la app ni se conecta a la Facturación de Google Play, por lo que no se tratan datos de compra. Si se introducen mejoras opcionales Pro/Business, se tratará la información de pedidos y del estado de las compras para ofrecerle las funciones adquiridas; los datos de pago los tratará exclusivamente Google y este Aviso se actualizará previamente.
-- Mensajes de comentarios (solo cuando usted envía uno): Su mensaje, el correo electrónico que indique opcionalmente, el fabricante y modelo del dispositivo, la versión de Android, la versión de la app y la hora de envío, para responderle y corregir el problema notificado.
+- Mensajes de comentarios (solo cuando usted envía uno): Su mensaje, la dirección de correo desde la que lo envía, el fabricante y modelo del dispositivo, la versión de Android, la versión de la app y la hora de envío, para responderle y corregir el problema notificado.
 
 La versión actual de la aplicación no muestra anuncios y no incluye el SDK de Google AdMob. Si se introduce publicidad, este Aviso se actualizará antes de dicho lanzamiento.
 
 ## 3. Método de Recopilación y Base Jurídica
 
-Método de recopilación: Los informes de fallos se recopilan automáticamente desde su dispositivo durante el uso de la aplicación mediante la librería integrada Firebase Crashlytics (y, si se introducen compras, los datos de compra mediante la Facturación de Google Play). Los mensajes de comentarios solo se recopilan cuando usted envía el formulario y se transmiten por HTTPS a un punto de acceso de Google Apps Script operado por el Desarrollador.
+Método de recopilación: Los informes de fallos se recopilan automáticamente desde su dispositivo durante el uso de la aplicación mediante la librería integrada Firebase Crashlytics (y, si se introducen compras, los datos de compra mediante la Facturación de Google Play). Los mensajes de comentarios solo se reciben cuando usted decide enviar un correo desde su propia aplicación de correo a la dirección del Desarrollador (vancrone.app@gmail.com); la app no los transmite por sí misma.
 
 Base jurídica con arreglo al RGPD / KVKK: Los diagnósticos de fallos se tratan con base en el interés legítimo (mantener una aplicación funcional, segura y sin errores). Los datos de compras se tratan para la ejecución del contrato (entrega de funciones digitales adquiridas). Los mensajes de comentarios se tratan con base en el interés legítimo de responder a la solicitud que usted inicia. Si en el futuro se introduce publicidad personalizada, se basará en su consentimiento explícito.
 
 ## 4. Destinatarios y Transferencias de Datos
 
-Sus datos pueden transferirse a Google Ireland Limited / Google LLC y sus entidades vinculadas en calidad de encargados del tratamiento para Firebase Crashlytics, la Facturación de Google Play y la infraestructura de Google que aloja el punto de acceso de comentarios. La aplicación no utiliza la API de Google Drive y no envía su Contenido de Usuario a ningún servidor. No vendemos datos personales y nunca transferimos su Contenido de Usuario a terceros, ya que nunca lo recibimos.
+Sus datos pueden transferirse a Google Ireland Limited / Google LLC y sus entidades vinculadas en calidad de encargados del tratamiento para Firebase Crashlytics, la Facturación de Google Play y Gmail, que aloja el buzón de soporte del Desarrollador. La aplicación no utiliza la API de Google Drive y no envía su Contenido de Usuario a ningún servidor. No vendemos datos personales y nunca transferimos su Contenido de Usuario a terceros, ya que nunca lo recibimos.
 
 ## 5. Transferencias Internacionales de Datos
 

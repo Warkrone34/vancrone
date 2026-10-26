@@ -107,6 +107,6 @@ Listeyi aşağı kaydırdığınızda başa dönme düğmesi belirir.
 
 ## 11. Destek ve Geri Bildirim
 
-- Hata bildirmek veya öneri göndermek için **Ayarlar > Hakkında > Hata Bildir & Geri Bildirim** menüsünü kullanın (günde en fazla iki bildirim). Mesajınız, isteğe bağlı olarak girdiğiniz e-posta adresi ve temel cihaz ile uygulama sürümü bilgileri geliştiriciye gönderilir.
+- Hata bildirmek veya öneri göndermek için **Ayarlar > Hakkında > Hata Bildir & Geri Bildirim** menüsünü kullanın (günde en fazla iki bildirim). Mesajınız ve temel cihaz ile uygulama sürümü bilgileri e-posta uygulamanızda hazır açılır; geliştiriciye oradan siz gönderirsiniz.
 - Geliştiriciye Google Play mağaza sayfasındaki doğrulanmış iletişim kanalından da ulaşabilirsiniz.
 - *Spam botlarına ve otomatik tarayıcılara karşı korunmak amacıyla bu rehberde e-posta adresleri açık metin olarak yayımlanmamıştır.*

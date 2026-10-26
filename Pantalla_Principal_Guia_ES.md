@@ -107,6 +107,6 @@ Al desplazarse hacia abajo aparece un botón para volver al principio de la list
 
 ## 11. Soporte y Comentarios
 
-- Use **Ajustes > Acerca de > Reportar error y comentarios** para enviar un informe de error o una sugerencia (hasta dos al día). Se envían al desarrollador su mensaje, el correo electrónico que indique opcionalmente y datos básicos del dispositivo y de la versión de la app.
+- Use **Ajustes > Acerca de > Reportar error y comentarios** para enviar un informe de error o una sugerencia (hasta dos al día). Su aplicación de correo se abre con su mensaje y datos básicos del dispositivo y de la versión de la app; desde allí usted lo envía al desarrollador.
 - También puede contactar con el desarrollador a través de la ficha verificada de Google Play Store.
 - *Para protegerse de rastreadores de spam y bots automáticos, esta guía no publica direcciones de correo en texto plano.*
